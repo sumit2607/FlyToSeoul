@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlyToSeoul</string>
+    <string name="seoul_korea">Seoul , Korea</string>
+    <string name="select_dates">Select Dates</string>
+    <string name="explore_flight_by_destination">Explore flight by Destination</string>
+    <string name="khambhu_vally_nepal">Khambhu Vally nepal</string>
+    <string name="chose_destination">Chose Destination</string>
+</resources>
